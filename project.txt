@@ -10,3 +10,6 @@ We need a Research Software Engineer to support R and Python programming.
 Thanks for reading it.
 
 We discussed who might be responsible for what.
+
+
+The third team member needs to be competent in both Python and R. They also need to be familiar with matplotlib and ggplot.
