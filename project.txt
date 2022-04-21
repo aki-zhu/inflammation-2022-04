@@ -1,3 +1,9 @@
 
 Projest: Some initial data analysis to identify how inflammation changes over time after surgery,
 
+People:
+Aki is a hydrologist.
+Kame is a artist.
+
+Roles within the project need to be determined.
+We need a Research Software Engineer to support R and Python programming.
